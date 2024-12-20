@@ -13,7 +13,7 @@ Installation and usage instructions:
 5. Run script with .\Check_AzLbBw.ps1
 6. Provide parameters as prompted:<br>
     a. Resource ID of LB you would like to pull bandwidth metrics for - can retrieve from Azure Portal by<br>
-    b. navigating to LB you want to retrieve for > Properties (under settings tab) > Resource ID > Copy to clipboard; right click on PS terminal to paste<br>
+    b. Navigating to LB you want to retrieve for > Properties (under settings tab) > Resource ID > Copy to clipboard; right click on PS terminal to paste<br>
     c. Start Time<br>
     d. End Time<br>
-    e. location you would like to save the JSON
+    e. Location you would like to save the JSON

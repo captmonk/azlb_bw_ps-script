@@ -11,8 +11,9 @@ Installation and usage instructions:
 3. Move Check_AzLbBW.ps1 from the extracted folder to the folder created when extracting the .zip
 4. Open a PowerShell terminal and change directory to the directory created in Step 2 with cd command. (For example: cd C:\azlb_bw_ps-script)
 5. Run script with .\Check_AzLbBw.ps1
-6. Provide parameters as prompted:
-    a. Resource ID of LB you would like to pull bandwidth metrics for - can retrieve from Azure Portal by navigating to LB you want to retrieve for > Properties (under settings tab) > Resource ID > Copy to clipboard; right click on PS terminal to paste
-    b. Start Time
-    c. End Time
-    d. location you would like to save the JSON
+6. Provide parameters as prompted:<br>
+    a. Resource ID of LB you would like to pull bandwidth metrics for - can retrieve from Azure Portal by<br>
+    b. navigating to LB you want to retrieve for > Properties (under settings tab) > Resource ID > Copy to clipboard; right click on PS terminal to paste<br>
+    c. Start Time<br>
+    d. End Time<br>
+    e. location you would like to save the JSON
